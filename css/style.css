@@ -228,3 +228,16 @@ body {
   line-height: 32px;
   color: #000000;
 }
+
+@media print {
+  body {
+    background-color: white;
+    padding: 0;
+  }
+
+  .wrapper {
+  background: transparent;
+  display: flex;
+  box-shadow: none;
+}
+}
