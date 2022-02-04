@@ -186,7 +186,6 @@ body {
 
 .git-link {
   font-size: 16px;
-  font-style: italic;
   font-weight: 400;
   color: #000000;
   text-decoration: none;
@@ -201,7 +200,6 @@ body {
   font-weight: 400;
   line-height: 24px;
   margin-top: 10px;
-  /* margin-bottom: 10px; */
 }
 
 .profession-time {
